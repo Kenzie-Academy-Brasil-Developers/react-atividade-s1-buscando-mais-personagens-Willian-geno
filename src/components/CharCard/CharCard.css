@@ -1,0 +1,80 @@
+@media screen and (max-width: 642px){
+    .divBodyPerson{
+        display: flex;
+        flex-wrap: wrap;
+    
+        justify-content: center;
+        align-items: center;
+    
+        width: 100vw;
+        height: 100%;
+    }
+    
+    .divPerson{
+        border-style: double;
+        border-radius: 15%;
+        
+        width: 159px;
+        height: px;
+    
+        flex-wrap: wrap;
+        
+        margin: 0.5%;
+        margin-top: 25px;
+    }
+    
+    
+    img{
+        margin-top: 10%;
+        width: 95%;
+        height: 70%;
+        
+        border-radius: 10%;
+    }
+    
+    .personDaed{
+        background-color: rgb(230, 98, 98);
+
+        border-radius: 15%;
+    
+        height: 100%;
+    }
+    
+
+}    
+@media screen and (min-width: 643px) {
+    
+    
+}    
+.divBodyPerson{
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: center;
+    align-items: center;
+
+    width: 100vw;
+    height: 100%;
+}
+
+.divPerson{
+    border-style: double;
+    
+    width: 222px;
+    height: 260px;
+
+    flex-wrap: wrap;
+}
+
+
+img{
+    margin-top: 10%;
+    width: 95%;
+    height: 70%;
+}
+
+.personDaed{
+    background-color: rgb(230, 98, 98);
+
+    height: 100%;
+}
